@@ -1,0 +1,9 @@
+result_folder: 
+steg_folder: 
+steg_cfg: 
+model_epoch: 
+steg_epoch: 
+batch_size: 1
+with_mask: true
+strength_factor: 1
+noise_layer: 
